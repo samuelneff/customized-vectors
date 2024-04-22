@@ -1,7 +1,7 @@
 # Customized Vectors
 
 Random collection of vector images.
-<div style="background: white">
+
 <table style="background: white">
 <tbody>
   <tr>
@@ -62,4 +62,3 @@ Random collection of vector images.
   <tr>
 </tbody>
 </table>
-</div>
