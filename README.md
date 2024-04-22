@@ -1,8 +1,8 @@
 # Customized Vectors
 
 Random collection of vector images.
-
-<table style="background-color: white">
+<div style="background: white">
+<table style="background: white">
 <tbody>
   <tr>
     <td><img src="./beach-bbq.svg" width="80" height="80" /></td>
@@ -62,3 +62,4 @@ Random collection of vector images.
   <tr>
 </tbody>
 </table>
+</div>
