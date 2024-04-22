@@ -19,3 +19,4 @@ Random collection of vector images.
 | <img src="./sms-bgwhite.svg" width="80" height="80" /> | [SMS Message](./sms.svg) |
 | <img src="./solar-bgwhite.svg" width="80" height="80" /> | [Solar Panel](./solar.svg) |
 
+*Background note:* Images shown have a `-bgwhite` suffix to show properly in GitHub dark mode. The links are to the source images without this suffix do not have the background applied.
